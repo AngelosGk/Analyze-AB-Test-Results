@@ -12,4 +12,4 @@ For this project, I have been working to understand the results of an A/B test r
 * Part II - A/B Test
 * Part III - Regression
 
-[Click here](https://nbviewer.jupyter.org/github/AngelosGk/Analyze-AB-Test-Results/blob/master/Project%20AB%20Test%20.ipynb) to find the A/B Test project. 
+[Click here](https://nbviewer.jupyter.org/github/AngelosGk/Analyze-AB-Test-Results/blob/master/Analyze_ab_test_results_notebook.ipynb#regression) to find the A/B Test project. 
